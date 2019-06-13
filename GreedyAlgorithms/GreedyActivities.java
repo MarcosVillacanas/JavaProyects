@@ -1,6 +1,5 @@
 package GreedyActividades;
 
-
 //This proyect was made in order to practict Greedy Algorithms, as entry we have a group of activities with two hours
 //The start and the finish time of them, we also have a limit time to attend as many activities as possible
 //This algorithm solves this problem, showing the maximum number of activities we could attend
