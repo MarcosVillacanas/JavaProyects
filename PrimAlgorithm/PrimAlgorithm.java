@@ -1,6 +1,6 @@
 package Prim;
 
-//Cheapest way to connect some cities with bridges should be found, and i did it using prim algorithm
+//Cheapest way to connect some cities with bridges should be found, and i did it using prim algorithm.
 
 import java.util.*;
 
